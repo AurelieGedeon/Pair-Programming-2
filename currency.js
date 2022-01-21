@@ -1,5 +1,5 @@
 let usd = 98;
-function convertUsdToGourdes(usd) {
+function convertUsdToGourdes(usdToGourdes) {
   const gourdes = usd * 102.31;
   return gourdes.toFixed(2);
 }
